@@ -18,7 +18,6 @@
 - [📚 Essential Books & PDFs](#-essential-books--pdfs)
 - [🎥 Video Tutorials](#-video-tutorials)
 - [💻 Interactive Platforms](#-interactive-platforms)
-- [📊 Excel Templates & Tools](#-excel-templates--tools)
 - [🛠️ Development Tools](#️-development-tools)
 - [🏆 Practice Projects](#-practice-projects)
 - [📖 Additional Resources](#-additional-resources)
@@ -110,32 +109,6 @@
 
 ---
 
-## 📊 Excel Templates & Tools
-
-### 📈 **Project Management Templates**
-- **[OOP Project Tracker.xlsx](https://example.com/oop-project-tracker.xlsx)**
-  - Track learning progress, assignments, and deadlines
-  - Includes Gantt chart and milestone tracking
-
-- **[Code Review Checklist.xlsx](https://example.com/code-review-checklist.xlsx)**
-  - Systematic code quality assessment
-  - OOP principles compliance checker
-
-### 📋 **Study Planning Tools**
-- **[Learning Schedule Template.xlsx](https://example.com/learning-schedule.xlsx)**
-  - Weekly study planner with time allocation
-  - Progress tracking and goal setting
-
-- **[Concept Mapping Tool.xlsx](https://example.com/concept-mapping.xlsx)**
-  - Visual relationship mapping between OOP concepts
-  - Hierarchical learning structure
-
-### 🎯 **Assessment Tools**
-- **[Self-Assessment Quiz.xlsx](https://example.com/self-assessment.xlsx)**
-  - Interactive quiz with scoring system
-  - Covers all major OOP topics
-
----
 
 ## 🛠️ Development Tools
 
