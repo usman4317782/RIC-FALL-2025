@@ -26,21 +26,65 @@
 
 ## 🎯 Quick Start Guide
 
-### **Week 1-2: Foundations**
-- [ ] Read "Object-Oriented Programming in C++ (4th Edition)" (Chapters 1-3)
-- [ ] Complete C++ basics tutorial
-- [ ] Watch Programming with Mosh "OOP in 7 minutes" video
-- [ ] Install Git and setup version control
+### **Week 1-2: Foundations & Setup**
+- [ ] **Setup Development Environment**
+  - Install Visual Studio or Code::Blocks IDE
+  - Configure C++ compiler (MinGW/GCC)
+  - Setup Git and version control
+- [ ] **Basic C++ Review**
+  - Variables, data types, and functions
+  - Control structures (if/else, loops)
+  - Arrays and pointers basics
+- [ ] **Introduction to OOP**
+  - Read "Object-Oriented Programming in C++ (4th Edition)" (Chapters 1-3)
+  - Watch Programming with Mosh "OOP in 7 minutes" video
+  - Understand procedural vs object-oriented programming
 
-### **Week 3-4: Core Concepts**
-- [ ] Master the 4 Pillars of OOP
-- [ ] Practice with coding exercises
-- [ ] Build your first OOP project
+### **Week 3-4: Core OOP Concepts**
+- [ ] **Classes and Objects**
+  - Create your first C++ class
+  - Understand constructors and destructors
+  - Practice member functions and data members
+- [ ] **The 4 Pillars of OOP**
+  - **Encapsulation**: Private/public access specifiers
+  - **Inheritance**: Base and derived classes
+  - **Polymorphism**: Virtual functions and overriding
+  - **Abstraction**: Abstract classes and interfaces
+- [ ] **Hands-on Practice**
+  - Complete coding exercises from local resources
+  - Build simple projects (Calculator, Student Record)
 
-### **Week 5-6: Advanced Topics**
-- [ ] Design patterns introduction
-- [ ] UML diagrams and modeling
-- [ ] Code refactoring techniques
+### **Week 5-6: Intermediate Concepts**
+- [ ] **Advanced Class Features**
+  - Static members and functions
+  - Friend functions and classes
+  - Operator overloading
+- [ ] **Memory Management**
+  - Dynamic memory allocation (new/delete)
+  - Copy constructors and assignment operators
+  - RAII (Resource Acquisition Is Initialization)
+- [ ] **First Major Project**
+  - Library Management System or Bank Account Simulator
+  - Apply all learned OOP principles
+
+### **Week 7-8: Advanced Topics**
+- [ ] **Design Patterns**
+  - Singleton, Factory, Observer patterns
+  - When and how to use design patterns
+- [ ] **Advanced Inheritance**
+  - Multiple inheritance
+  - Virtual inheritance
+  - Diamond problem resolution
+- [ ] **Modern C++ Features**
+  - Smart pointers (unique_ptr, shared_ptr)
+  - Move semantics and rvalue references
+  - Lambda expressions in OOP context
+
+### **📋 Daily Study Routine**
+- **30 minutes**: Read theory from available books
+- **45 minutes**: Hands-on coding practice
+- **15 minutes**: Review and document learnings
+- **Weekly**: Complete one small project or exercise
 
 ---
 
