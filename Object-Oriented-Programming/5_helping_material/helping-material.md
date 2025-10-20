@@ -71,20 +71,8 @@
 
 #### **YouTube Channels (Free)**
 - **[Programming with Mosh](https://youtube.com/@programmingwithmosh)** - Clean, professional tutorials
-  - 🎯 **[Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)** - Quick OOP overview
-- **[Derek Banas](https://youtube.com/@derekbanas)** - Quick, comprehensive overviews
-- **[thenewboston](https://youtube.com/@thenewboston)** - Beginner-friendly explanations
-- **[The Cherno](https://youtube.com/@thecherno)** - C++-focused content and tutorials
+  - 🎯 **[Object-oriented Programming ](https://www.youtube.com/watch?v=wN0x9eZLix4)** 
 
-### 📺 **Specific Video Playlists**
-
-| Topic | Channel | Duration | Level |
-|-------|---------|----------|-------|
-| **OOP Fundamentals** | Programming with Mosh | 7 minutes | Beginner |
-| **C++ OOP Complete** | Derek Banas | 4 hours | Intermediate |
-| **C++ Classes & Objects** | The Cherno | 3 hours | Beginner |
-| **C++ Object Oriented Programming** | Various | 6 hours | All Levels |
-| **Design Patterns in C++** | Christopher Okhravi | 8 hours | Advanced |
 
 ---
 
