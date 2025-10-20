@@ -31,7 +31,7 @@
 - [ ] Read "Object-Oriented Programming in C++ (4th Edition)" (Chapters 1-3)
 - [ ] Complete C++ basics tutorial
 - [ ] Watch Programming with Mosh "OOP in 7 minutes" video
-- [ ] Install Git, GitBash, and GitHub Desktop
+- [ ] Install Git and setup version control
 
 ### **Week 3-4: Core Concepts**
 - [ ] Master the 4 Pillars of OOP
@@ -139,25 +139,7 @@
 
 ### 🛠️ **Version Control & Setup Tools**
 
-#### **Git Installation & Setup**
-![Git Installation](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-
-- **[How To Install Git Bash On Windows 10](https://www.youtube.com/watch?v=pIbxvTsjqLw)** - Complete Git Bash installation guide
-- **[Installing Git and Git Bash on Windows - 2025 Full Tutorial](https://www.youtube.com/watch?v=UdhAb0t5iHw)** - Latest installation tutorial
-- **[Install Git Bash In Windows | Git Bash Install 2023](https://www.youtube.com/watch?v=SucoYZYtQlM)** - Step-by-step installation
-
-#### **GitHub Desktop Installation**
-![GitHub Desktop](https://desktop.github.com/images/desktop-icon.svg)
-
-- **[How to install Github Desktop on Windows 11](https://www.youtube.com/watch?v=iMfSokYReYQ)** - GitHub Desktop setup guide
-- **[Install GITHUB DESKTOP on Windows 10 | How to clone a repository](https://www.youtube.com/watch?v=xuq73UJrbwg)** - Installation and basic usage
-- **[How to install GitHub Desktop 2023](https://www.youtube.com/watch?v=P8z4MEGcxh0)** - Latest GitHub Desktop tutorial
-
-#### **Complete Git Setup Tutorial**
-![Git Setup](https://git-scm.com/images/logo@2x.png)
-
-- **[How to Install and Configure Git and GitHub on Windows 11](https://www.youtube.com/watch?v=AdzKzlp66sQ)** - Complete setup guide
-- **[How To Install GitHub Desktop For Windows](https://www.youtube.com/watch?v=qtxWg3kOnd0)** - GitHub Desktop installation
+- **[Git Installation Guide](https://www.youtube.com/watch?v=t2-l3WvWvqg)** - Complete setup tutorial
 
 ---
 
