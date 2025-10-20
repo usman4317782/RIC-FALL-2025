@@ -62,9 +62,7 @@
 
 ### 📄 **Additional Online Resources**
 
-- **[OOP Concepts Cheat Sheet](https://example.com/oop-cheatsheet.pdf)** - Quick reference guide
-- **[UML Diagrams Tutorial](https://example.com/uml-tutorial.pdf)** - Complete UML guide
-- **[C++ OOP Examples](https://example.com/cpp-oop-examples.pdf)** - Practical code examples
+- **[C++ OOP Examples](../3_code_Lab/)** - Practical code examples
 
 ---
 
