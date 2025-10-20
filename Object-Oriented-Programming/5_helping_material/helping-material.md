@@ -113,7 +113,7 @@
 
 #### **YouTube Channels (Free)**
 - **[Programming with Mosh](https://youtube.com/@programmingwithmosh)** - Clean, professional tutorials
-  - 🎯 **[Object-oriented Programming ](https://www.youtube.com/watch?v=wN0x9eZLix4)** 
+  - 🎯 **[Object-oriented Programming ](https://www.youtube.com/watch?v=gCkPJTSZ9mU&list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi)** 
 
 
 ---
