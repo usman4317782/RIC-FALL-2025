@@ -201,7 +201,6 @@
 
 ### 📱 **Mobile Apps**
 - **[SoloLearn](https://sololearn.com/)** - Mobile coding lessons
-- **[Grasshopper](https://grasshopper.app/)** - JavaScript fundamentals
 - **[Mimo](https://mimo.org/)** - Interactive programming courses
 
 ### 🎙️ **Podcasts**
@@ -210,7 +209,6 @@
 - **[Programming Throwdown](https://programmingthrowdown.com/)** - Language comparisons
 
 ### 📰 **Newsletters**
-- **[C++ Weekly](https://cppweekly.com/)** - C++ tips and tricks
 - **[ISO C++ News](https://isocpp.org/blog)** - Official C++ standards updates
 - **[Modern C++ Newsletter](https://moderncpp.com/)** - Latest C++ developments
 
