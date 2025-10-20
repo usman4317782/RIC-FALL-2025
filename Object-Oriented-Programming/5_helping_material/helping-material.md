@@ -68,22 +68,6 @@
 
 ## 🎥 Video Tutorials
 
-### 🌟 **Premium Course Recommendations**
-
-#### **Coursera Specializations**
-- **[Object-Oriented Programming in C++](https://coursera.org/specializations/object-oriented-programming)** 
-  - 🎓 University of California San Diego
-  - ⏱️ ~6 months | 🏆 Certificate Available
-  - 💰 $49/month (Financial aid available)
-
-#### **Udemy Bestsellers**
-- **[Complete C++ Developer Course](https://udemy.com/course/complete-cpp-developer-course/)**
-  - 👨‍🏫 Abdul Bari | ⭐ 4.5/5 (50k+ reviews)
-  - ⏱️ 57 hours | 💰 $94.99
-
-- **[C++ Programming Masterclass](https://udemy.com/course/cpp-programming-masterclass/)**
-  - 👨‍🏫 Various Instructors | ⭐ 4.4/5 (25k+ reviews)
-  - ⏱️ 45+ hours | 💰 $79.99 (Often on sale for $12.99)
 
 #### **YouTube Channels (Free)**
 - **[Programming with Mosh](https://youtube.com/@programmingwithmosh)** - Clean, professional tutorials
