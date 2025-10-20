@@ -29,9 +29,10 @@
 ## 🎯 Quick Start Guide
 
 ### **Week 1-2: Foundations**
-- [ ] Read "Head First Object-Oriented Analysis and Design" (Chapters 1-3)
-- [ ] Complete Java/C++ basics tutorial
-- [ ] Watch "OOP Fundamentals" video series
+- [ ] Read "Object-Oriented Programming in C++ (4th Edition)" (Chapters 1-3)
+- [ ] Complete C++ basics tutorial
+- [ ] Watch Programming with Mosh "OOP in 7 minutes" video
+- [ ] Install Git, GitBash, and GitHub Desktop
 
 ### **Week 3-4: Core Concepts**
 - [ ] Master the 4 Pillars of OOP
@@ -51,19 +52,19 @@
 
 | Book Title | Author | Level | Format | Link |
 |------------|--------|-------|--------|------|
-| **Head First Object-Oriented Analysis and Design** | Brett McLaughlin | Beginner | PDF/Physical | [Download PDF](https://example.com/headfirst-oop.pdf) |
-| **Clean Code: A Handbook of Agile Software Craftsmanship** | Robert C. Martin | Intermediate | PDF/Kindle | [Amazon Link](https://amazon.com/clean-code) |
-| **Design Patterns: Elements of Reusable Object-Oriented Software** | Gang of Four | Advanced | PDF/Physical | [PDF Resource](https://example.com/design-patterns.pdf) |
-| **Effective Java** | Joshua Bloch | Intermediate | PDF/Kindle | [Official Site](https://oracle.com/java) |
-| **Object-Oriented Programming in C++** | Robert Lafore | Beginner | PDF | [Download](https://example.com/cpp-oop.pdf) |
+| **Object-Oriented Programming in C++ (4th Edition)** | Robert Lafore | Beginner | PDF | [Local PDF](../4_books/Object-Oriented%20Programming%20in%20C++%20(4th%20Edition)%20by%20Robert%20Lafore.pdf) |
+| **C++ Programming Program Design Including Data Structures** | D.S. Malik | Intermediate | PDF | [Local PDF](../4_books/C++%20Programming%20Program%20Design%20Including%20Data%20Structures.pdf) |
 
-### 📄 **Free PDF Resources**
+### 📄 **Available Local Resources**
+
+- **[Object-Oriented Programming in C++ (4th Edition)](../4_books/Object-Oriented%20Programming%20in%20C++%20(4th%20Edition)%20by%20Robert%20Lafore.pdf)** - Complete C++ OOP guide by Robert Lafore
+- **[C++ Programming Program Design Including Data Structures](../4_books/C++%20Programming%20Program%20Design%20Including%20Data%20Structures.pdf)** - Advanced C++ programming concepts
+
+### 📄 **Additional Online Resources**
 
 - **[OOP Concepts Cheat Sheet](https://example.com/oop-cheatsheet.pdf)** - Quick reference guide
 - **[UML Diagrams Tutorial](https://example.com/uml-tutorial.pdf)** - Complete UML guide
-- **[Java OOP Examples](https://example.com/java-oop-examples.pdf)** - Practical code examples
-- **[C++ Object-Oriented Programming](https://example.com/cpp-oop-guide.pdf)** - Comprehensive C++ guide
-- **[Python OOP Mastery](https://example.com/python-oop.pdf)** - Python-specific OOP concepts
+- **[C++ OOP Examples](https://example.com/cpp-oop-examples.pdf)** - Practical code examples
 
 ---
 
@@ -72,35 +73,36 @@
 ### 🌟 **Premium Course Recommendations**
 
 #### **Coursera Specializations**
-- **[Object-Oriented Programming in Java](https://coursera.org/specializations/object-oriented-programming)** 
+- **[Object-Oriented Programming in C++](https://coursera.org/specializations/object-oriented-programming)** 
   - 🎓 University of California San Diego
   - ⏱️ ~6 months | 🏆 Certificate Available
   - 💰 $49/month (Financial aid available)
 
 #### **Udemy Bestsellers**
-- **[Java Programming Masterclass](https://udemy.com/course/java-the-complete-java-developer-course/)**
-  - 👨‍🏫 Tim Buchalka | ⭐ 4.6/5 (180k+ reviews)
-  - ⏱️ 80+ hours | 💰 $84.99 (Often on sale for $12.99)
-
 - **[Complete C++ Developer Course](https://udemy.com/course/complete-cpp-developer-course/)**
   - 👨‍🏫 Abdul Bari | ⭐ 4.5/5 (50k+ reviews)
   - ⏱️ 57 hours | 💰 $94.99
 
+- **[C++ Programming Masterclass](https://udemy.com/course/cpp-programming-masterclass/)**
+  - 👨‍🏫 Various Instructors | ⭐ 4.4/5 (25k+ reviews)
+  - ⏱️ 45+ hours | 💰 $79.99 (Often on sale for $12.99)
+
 #### **YouTube Channels (Free)**
 - **[Programming with Mosh](https://youtube.com/@programmingwithmosh)** - Clean, professional tutorials
+  - 🎯 **[Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)** - Quick OOP overview
 - **[Derek Banas](https://youtube.com/@derekbanas)** - Quick, comprehensive overviews
 - **[thenewboston](https://youtube.com/@thenewboston)** - Beginner-friendly explanations
-- **[Coding with John](https://youtube.com/@codingwithjohn)** - Java-focused OOP content
+- **[The Cherno](https://youtube.com/@thecherno)** - C++-focused content and tutorials
 
 ### 📺 **Specific Video Playlists**
 
 | Topic | Channel | Duration | Level |
 |-------|---------|----------|-------|
-| **OOP Fundamentals** | Programming with Mosh | 2.5 hours | Beginner |
-| **Java OOP Complete** | Derek Banas | 4 hours | Intermediate |
+| **OOP Fundamentals** | Programming with Mosh | 7 minutes | Beginner |
+| **C++ OOP Complete** | Derek Banas | 4 hours | Intermediate |
 | **C++ Classes & Objects** | The Cherno | 3 hours | Beginner |
-| **Python OOP Tutorial** | Corey Schafer | 6 hours | All Levels |
-| **Design Patterns** | Christopher Okhravi | 8 hours | Advanced |
+| **C++ Object Oriented Programming** | Various | 6 hours | All Levels |
+| **Design Patterns in C++** | Christopher Okhravi | 8 hours | Advanced |
 
 ---
 
@@ -109,7 +111,7 @@
 ### 🎮 **Coding Practice Platforms**
 
 #### **Beginner-Friendly**
-- **[Codecademy - Learn Java](https://codecademy.com/learn/learn-java)**
+- **[Codecademy - Learn C++](https://codecademy.com/learn/learn-c-plus-plus)**
   - 🎯 Interactive lessons with instant feedback
   - 💰 Free tier available, Pro: $15.99/month
 
@@ -169,18 +171,18 @@
 
 ### 🔧 **IDEs & Editors**
 
-#### **Java Development**
-- **[IntelliJ IDEA](https://jetbrains.com/idea/)** - Professional Java IDE
-  - 💰 Community (Free) | Ultimate ($149/year)
-- **[Eclipse](https://eclipse.org/)** - Open-source Java IDE
-  - 🆓 Completely free
-- **[NetBeans](https://netbeans.apache.org/)** - Apache-supported IDE
-  - 🆓 Free and open-source
-
 #### **C++ Development**
 - **[Visual Studio](https://visualstudio.microsoft.com/)** - Microsoft's flagship IDE
+  - 💰 Community (Free) | Professional ($45/month)
 - **[Code::Blocks](https://codeblocks.org/)** - Lightweight, cross-platform
+  - 🆓 Completely free
 - **[CLion](https://jetbrains.com/clion/)** - JetBrains C++ IDE
+  - 💰 $89/year for individuals
+
+#### **Additional C++ Tools**
+- **[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)** - Simple IDE for beginners
+- **[Qt Creator](https://qt.io/product/development-tools)** - Cross-platform C++ IDE
+- **[MinGW](http://mingw.org/)** - Minimalist GNU for Windows compiler
 
 #### **Multi-Language**
 - **[Visual Studio Code](https://code.visualstudio.com/)** - Lightweight, extensible
@@ -189,8 +191,30 @@
 
 ### 🔍 **Debugging & Analysis Tools**
 - **[Valgrind](https://valgrind.org/)** - Memory debugging for C/C++
-- **[JProfiler](https://ej-technologies.com/products/jprofiler/overview.html)** - Java profiling
+- **[GDB](https://gnu.org/software/gdb/)** - GNU Debugger for C/C++
 - **[SonarQube](https://sonarqube.org/)** - Code quality analysis
+
+### 🛠️ **Version Control & Setup Tools**
+
+#### **Git Installation & Setup**
+![Git Installation](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
+- **[How To Install Git Bash On Windows 10](https://www.youtube.com/watch?v=pIbxvTsjqLw)** - Complete Git Bash installation guide
+- **[Installing Git and Git Bash on Windows - 2025 Full Tutorial](https://www.youtube.com/watch?v=UdhAb0t5iHw)** - Latest installation tutorial
+- **[Install Git Bash In Windows | Git Bash Install 2023](https://www.youtube.com/watch?v=SucoYZYtQlM)** - Step-by-step installation
+
+#### **GitHub Desktop Installation**
+![GitHub Desktop](https://desktop.github.com/images/desktop-icon.svg)
+
+- **[How to install Github Desktop on Windows 11](https://www.youtube.com/watch?v=iMfSokYReYQ)** - GitHub Desktop setup guide
+- **[Install GITHUB DESKTOP on Windows 10 | How to clone a repository](https://www.youtube.com/watch?v=xuq73UJrbwg)** - Installation and basic usage
+- **[How to install GitHub Desktop 2023](https://www.youtube.com/watch?v=P8z4MEGcxh0)** - Latest GitHub Desktop tutorial
+
+#### **Complete Git Setup Tutorial**
+![Git Setup](https://git-scm.com/images/logo@2x.png)
+
+- **[How to Install and Configure Git and GitHub on Windows 11](https://www.youtube.com/watch?v=AdzKzlp66sQ)** - Complete setup guide
+- **[How To Install GitHub Desktop For Windows](https://www.youtube.com/watch?v=qtxWg3kOnd0)** - GitHub Desktop installation
 
 ---
 
@@ -244,10 +268,11 @@
 ## 📖 Additional Resources
 
 ### 🌐 **Websites & Blogs**
-- **[Oracle Java Documentation](https://docs.oracle.com/javase/)** - Official Java docs
 - **[cppreference.com](https://cppreference.com/)** - Comprehensive C++ reference
+- **[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/)** - Modern C++ best practices
 - **[Martin Fowler's Blog](https://martinfowler.com/)** - Software design insights
 - **[Clean Coder Blog](https://blog.cleancoder.com/)** - Robert C. Martin's thoughts
+- **[ISO C++](https://isocpp.org/)** - Official C++ standards and news
 
 ### 📱 **Mobile Apps**
 - **[SoloLearn](https://sololearn.com/)** - Mobile coding lessons
@@ -260,9 +285,9 @@
 - **[Programming Throwdown](https://programmingthrowdown.com/)** - Language comparisons
 
 ### 📰 **Newsletters**
-- **[JavaScript Weekly](https://javascriptweekly.com/)** - JS ecosystem updates
-- **[Java Magazine](https://oracle.com/java/technologies/javase/java-magazine.html)** - Oracle's official publication
 - **[C++ Weekly](https://cppweekly.com/)** - C++ tips and tricks
+- **[ISO C++ News](https://isocpp.org/blog)** - Official C++ standards updates
+- **[Modern C++ Newsletter](https://moderncpp.com/)** - Latest C++ developments
 
 ---
 
