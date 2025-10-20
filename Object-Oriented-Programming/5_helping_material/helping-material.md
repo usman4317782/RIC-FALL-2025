@@ -21,7 +21,6 @@
 - [🛠️ Development Tools](#️-development-tools)
 - [🏆 Practice Projects](#-practice-projects)
 - [📖 Additional Resources](#-additional-resources)
-- [🔗 Quick Links](#-quick-links)
 
 ---
 
@@ -214,28 +213,7 @@
 
 ---
 
-## 🔗 Quick Links
 
-### 🚀 **Getting Started**
-- [Setup Development Environment](./setup-guide.md)
-- [First OOP Program Tutorial](./first-program.md)
-- [Common Mistakes to Avoid](./common-mistakes.md)
-
-### 📚 **Reference Materials**
-- [OOP Terminology Glossary](./glossary.md)
-- [Design Patterns Cheat Sheet](./design-patterns-cheat-sheet.md)
-- [Code Style Guidelines](./style-guide.md)
-
-### 🎯 **Practice Resources**
-- [Weekly Coding Challenges](./challenges/)
-- [Project Ideas Generator](./project-ideas.md)
-- [Code Review Checklist](./code-review.md)
-
----
-
-<div align="center">
-
-## 🌟 **Stay Connected & Updated**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
