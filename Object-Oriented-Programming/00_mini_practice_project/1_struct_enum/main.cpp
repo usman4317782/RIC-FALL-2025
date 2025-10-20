@@ -1,18 +1,16 @@
 #include "product_management.h"
 
 int main() {
-    // Declaration and initialization of ProductDatabase structure
-    ProductDatabase database;
-    initializeDatabase(database);
+    // Declaration and initialization of ProductList structure
+    ProductList productList;
+    initializeProductList(productList);
     
     // Display welcome message
-    cout << "\n" << string(60, '*') << endl;
-    cout << "    WELCOME TO PRODUCT MANAGEMENT SYSTEM" << endl;
-    cout << "         Demonstrating OOP Concepts" << endl;
-    cout << string(60, '*') << endl;
-    cout << "\nDatabase: " << database.database_name << endl;
-    cout << "Created: " << database.created_date << endl;
-    cout << "Current Products: " << database.total_products << endl;
+    cout << "\n" << string(50, '*') << endl;
+    cout << "   WELCOME TO SIMPLE PRODUCT MANAGER" << endl;
+    cout << "      Demonstrating Basic OOP Concepts" << endl;
+    cout << string(50, '*') << endl;
+    cout << "\nCurrent Products: " << productList.count << endl;
     
     int choice;
     
@@ -23,44 +21,35 @@ int main() {
         
         switch (choice) {
             case 1:
-                addProduct(database);
+                addProduct(productList);
                 break;
             case 2:
-                displayAllProducts(database);
+                displayAllProducts(productList);
                 break;
             case 3:
-                searchProduct(database);
+                searchProduct(productList);
                 break;
             case 4:
-                updateProduct(database);
+                updateProduct(productList);
                 break;
             case 5:
-                deleteProduct(database);
+                deleteProduct(productList);
                 break;
             case 6:
-                displayProductsByCategory(database);
-                break;
-            case 7:
-                displayLowStockProducts(database);
-                break;
-            case 8:
-                calculateTotalInventoryValue(database);
-                break;
-            case 9:
-                cout << "\nThank you for using Product Management System!" << endl;
+                cout << "\nThank you for using Simple Product Manager!" << endl;
                 cout << "Goodbye!" << endl;
                 break;
             default:
                 cout << "Invalid choice! Please try again." << endl;
         }
         
-        if (choice != 9) {
+        if (choice != 6) {
             cout << "\nPress Enter to continue...";
             cin.ignore();
             cin.get();
         }
         
-    } while (choice != 9);
+    } while (choice != 6);
     
     return 0;
 }
