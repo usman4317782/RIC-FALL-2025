@@ -16,7 +16,7 @@
 
 **Join our Game Programming class on Google Classroom for assignments, announcements, and discussions:**
 
-[![Google Classroom](https://img.shields.io/badge/Google%20Classroom-Join%20Class-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)](https://classroom.google.com/c/ODE2MTczNjQyMTk0)
+[![Google Classroom](https://img.shields.io/badge/Google%20Classroom-Join%20Class-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white)](https://classroom.google.com/c/ODE2MTczNjQyMTk0?cjc=2w4w6fux)
 
 **Class Code:** `2w4w6fux`
 
