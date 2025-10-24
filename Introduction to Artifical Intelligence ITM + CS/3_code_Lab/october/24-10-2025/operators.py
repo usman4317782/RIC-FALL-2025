@@ -1,21 +1,21 @@
 '''
-addition + 
-subtraction - 
-multiplication *    
-division /
-modulus %   
-exponentiation ** 
-floor division //
+python operators
+
+addition operator: +
+subtraction operator: -
+multiplication operator: *
+division operator: /
+modulus operator: %
+exponentiation operator: **
+floor division operator: //
 
 '''
-firstNumber = int(input('enter first number: '))
-secondNumber = int(input('enter second number: '))
-print ("Addition Result = " , firstNumber + secondNumber)
-print ("Subtraction Result = " , firstNumber - secondNumber)
-print ("Multiplication Result = " , firstNumber * secondNumber)
-print ("Division Result = " , firstNumber / secondNumber)
-print ("Modulus Result = " , firstNumber % secondNumber)
-print ("Exponentiation Result = " , firstNumber ** secondNumber)
-print ("Floor Division Result = " , firstNumber // secondNumber)
-
-
+firstNumber = int(input ("enter first number:"))
+secondNumber = int(input ("enter second number:"))
+print ("Add Result = " , firstNumber + secondNumber)  # this will concatenate the two inputs as strings
+print ("Sub Result = " , firstNumber - secondNumber)  # this will concatenate the two inputs as strings
+print ("" , firstNumber * secondNumber)  # this will concatenate the two inputs as strings
+print ("" , firstNumber / secondNumber)  # this will concatenate the two inputs as strings
+print ("" , firstNumber % secondNumber)  # this will concatenate the two inputs as strings
+print ("" , firstNumber // secondNumber)  # this will concatenate the two inputs as strings
+print ("" , firstNumber ** secondNumber)  # this will concatenate the two inputs as strings

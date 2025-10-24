@@ -1,11 +1,9 @@
+#variables
 '''
-this is 
-multiline 
-comment
+this is multline comment
+another line
 '''
 
-# variables
-# name = input ("enter your name: ")
-# print (name)
-
+name = input ('enter your name:')
+print (name)
 
