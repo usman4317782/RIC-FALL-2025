@@ -1,9 +1,9 @@
-#variables
-'''
-this is multline comment
-another line
-'''
+# user input 
 
-name = input ('enter your name:')
-print (name)
+# email = input("Enter Email: ")
+
+# #user output
+
+
+# print (email)
 
