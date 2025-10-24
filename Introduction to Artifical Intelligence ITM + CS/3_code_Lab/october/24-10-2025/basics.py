@@ -1,14 +1,11 @@
 '''
-asdfsafsad
-asdfsafsadfs
-asdfsafdsa
+this is 
+multiline 
+comment
 '''
-# x =  525  #integer
-# y =  2.565  #float
-# z =  True #boolean
-# name = "abc" #string
-# username = 'asdfsa'
 
-# name = input('enter your name: ')
+# variables
+# name = input ("enter your name: ")
+# print (name)
 
-# print(name)
+
