@@ -1,6 +1,2 @@
-rgb = ["Red", "Green", "Blue"]
-rgba = rgb
-print(id(rgb) == id(rgba))  # they reference the same object
-
-# rgba.append("Alph")
-# rgb
+squares = [1, 4, 9, 16, 25, "Lahore", 45678.5588, True]
+print(squares[5:])
