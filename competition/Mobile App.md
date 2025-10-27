@@ -1,4 +1,4 @@
-# 💻 Innovation Sprint 2025 — Web & Mobile App Development Challenge
+# 📱 Mobile Application Development Innovation Sprint 2025
 
 **Organized by:** Riphah School of Computing & Innovation  
 **Event Date:** 12 November 2025  
@@ -10,194 +10,126 @@
 ---
 
 ## 🧭 Event Overview
+Welcome to the **Mobile Application Development Innovation Sprint 2025!**  
+This competition challenges you to build a **functional mobile app prototype** that demonstrates creativity, coding skill, and teamwork — all within a short 1–2 hour window.  
 
-Welcome to the **Innovation Sprint 2025**!  
-This competition is designed to challenge your **development, design, and problem-solving skills** under time pressure.  
-You can participate in **either the Web App Development Track** or the **Mobile App Development Track**, depending on your expertise.  
-
-Your goal: **Build a working prototype or partially functional app** that solves a real problem creatively — then present it live to judges.
+Your goal is to create a mobile application that **solves a real-world problem** in a simple and innovative way.
 
 ---
 
-# 🌐 Web App Development Track
-
-### 🎨 Theme
-**Smart Productivity Tools**
-
-Create a **functional web application** that helps users improve their daily workflow, learning, or focus.  
-You may interpret the theme creatively as long as it demonstrates **technical skill** and **UI/UX understanding**.
-
----
-
-### ⚙️ Project Details
-
-#### 🎯 Objective
-Within 1–2 hours, build a **prototype-level web app** that:
-- Addresses a real productivity or workflow problem.  
-- Has at least one **interactive feature**.  
-- Is visually clean and demo-ready.
-
-#### 💡 Choose ONE of the following sample project options:
-You may also propose your own idea within the same theme.
-
-| Option | Project Title | Description |
-|--------|----------------|--------------|
-| 1 | **TaskFlow** | A simple task manager that lets users create, organize, and prioritize to-dos. |
-| 2 | **StudySync** | A web-based student productivity dashboard for tracking assignments and goals. |
-| 3 | **HabitTrackr** | A minimalist habit tracker with charts showing progress trends. |
-| 4 | **TeamBoard** | A micro-project board where two teammates can add and update shared tasks. |
-| 5 | **FocusTimer** | A Pomodoro-style focus timer with session logging and motivational quotes. |
-
----
-
-### 🧱 Technical Requirements
-
-| Category | Minimum Requirements |
-|-----------|----------------------|
-| **Frontend** | HTML, CSS, JavaScript (React, Vue, or vanilla JS allowed) |
-| **Design** | Responsive, minimal, and user-friendly UI |
-| **Functionality** | Add/Edit/Delete operations or user interactions |
-| **Storage** | LocalStorage or lightweight backend (optional) |
-| **Version Control** | Use GitHub for commits and submission |
-| **Documentation** | README file describing features and usage |
-
----
-
-### 🕒 Schedule (Web Track)
-
-| Phase | Duration | Description |
-|-------|-----------|-------------|
-| Briefing | 10 min | Challenge explanation |
-| Development | 60 min | Design & implement web app |
-| Testing & Polish | 15 min | Final refinements |
-| Live Demo | 15 min | Present to judges |
-
----
-
-### 🧩 Evaluation Criteria
-
-| Criteria | Description | Points |
-|-----------|--------------|--------|
-| Creativity | Idea originality | 20 |
-| Functionality | Features & execution | 25 |
-| Design | Interface quality | 20 |
-| Problem-Solving | Logical implementation | 20 |
-| Teamwork | Collaboration | 15 |
-| **Total** |  | **100** |
-
----
-
-### 📦 Deliverables (Web)
-- GitHub repository with code and README  
-- Screenshots or short demo link (if available)  
-- Live presentation showing app workflow  
-
----
-
-# 📱 Mobile App Development Track
-
-### 🎨 Theme
+## 🎨 Theme
 **Smart Living Solutions**
 
-Build a **mobile application prototype** that enhances daily life — from time management and wellness to learning or communication.
+Design a mobile app that enhances productivity, health, learning, or day-to-day efficiency.  
+You are free to interpret the theme creatively as long as it provides **practical value** and showcases your **technical and UI/UX abilities**.
 
 ---
 
-### ⚙️ Project Details
+## ⚙️ Project Details
 
-#### 🎯 Objective
-Develop a **prototype or functional mobile app** that:
+### 🎯 Objective
+Develop a **prototype or semi-functional mobile app** that:
 - Solves a small, real-world problem.  
-- Demonstrates at least **two working screens** (e.g., Home + Task/Feature).  
-- Is intuitive, efficient, and ready for a short live demo.
+- Has at least **two working screens** (e.g., Home + Feature page).  
+- Includes at least **one interactive element** (form, button, data display, etc.).  
+- Is ready for a short **live demo**.
 
-#### 💡 Choose ONE of the following sample project options:
-(Or propose your own idea within the same theme.)
+---
+
+### 💡 Choose ONE of the following sample project ideas
+(You may also propose your own, if aligned with the theme.)
 
 | Option | Project Title | Description |
 |--------|----------------|--------------|
-| 1 | **HealthMate** | A simple fitness reminder app that tracks daily steps and sends motivational alerts. |
-| 2 | **EduPlan** | A lightweight academic planner that lets students manage subjects, deadlines, and reminders. |
-| 3 | **ExpenseEase** | A mobile expense tracker that allows users to add daily transactions and view summaries. |
-| 4 | **Moodify** | A mood journal app where users can log daily feelings and view emotional trends. |
-| 5 | **QuickHelp** | A community-based emergency contact app that connects users to nearby volunteers instantly. |
+| 1 | **HealthMate** | A lightweight fitness reminder app that tracks steps and sends motivational alerts. |
+| 2 | **EduPlan** | A student planner app for managing subjects, tasks, and deadlines with push reminders. |
+| 3 | **ExpenseEase** | A personal expense tracker to log daily transactions and view summary statistics. |
+| 4 | **Moodify** | A daily mood journal where users can log emotions and visualize mental trends. |
+| 5 | **QuickHelp** | An emergency contact app that connects users to nearby volunteers or support instantly. |
 
 ---
 
-### 🧱 Technical Requirements
+## 🧱 Technical Requirements
 
 | Category | Minimum Requirements |
 |-----------|----------------------|
 | **Framework** | Flutter, React Native, Kotlin, Swift, or any hybrid solution |
-| **Design** | Minimum 2 screens (e.g., Home + Feature page) |
-| **Functionality** | Must demonstrate at least one interactive feature (form, list, or action button) |
-| **Storage** | Local database (SQLite, SharedPreferences) or mock JSON data |
-| **Documentation** | README explaining features, tech stack, and screenshots |
-| **Submission** | GitHub repo + APK file (if buildable) or screen recording of demo |
+| **Design** | At least 2 screens (Home + Feature screen) with intuitive navigation |
+| **Functionality** | Must include at least one working interactive component |
+| **Storage** | Local database (SQLite, Hive, SharedPreferences) or mock JSON |
+| **Documentation** | README file explaining features, tech stack, and screenshots |
+| **Submission** | GitHub repo + APK file (if buildable) or short demo video |
 
 ---
 
-### 🕒 Schedule (Mobile Track)
+## 🕒 Event Schedule
 
 | Phase | Duration | Description |
 |-------|-----------|-------------|
-| Briefing | 10 min | Rules and setup |
+| Briefing | 10 min | Rules and theme explanation |
 | Development | 60 min | Build and test prototype |
-| Testing & Polish | 15 min | Fix bugs and finalize |
-| Demo | 15 min | Present app workflow live |
+| Testing & Polish | 15 min | Debugging and UI refinements |
+| Demo | 15 min | Live presentation and Q&A |
 
 ---
 
-### 🧩 Evaluation Criteria
+## 🧩 Evaluation Criteria
 
 | Criteria | Description | Points |
 |-----------|--------------|--------|
-| Creativity | Originality and relevance | 20 |
-| Functionality | Smoothness and stability | 25 |
-| Design | Mobile UI/UX quality | 20 |
-| Problem-Solving | Code structure & logic | 20 |
-| Teamwork | Coordination and time use | 15 |
+| Creativity | Originality and usefulness of idea | 20 |
+| Functionality | Stability, interactivity, and smooth operation | 25 |
+| Design | Aesthetic quality and usability of UI/UX | 20 |
+| Problem-Solving | Logic, code structure, and flow | 20 |
+| Teamwork | Collaboration and time management | 15 |
 | **Total** |  | **100** |
 
 ---
 
-### 📦 Deliverables (Mobile)
-- GitHub repository with code and `README.md`  
-- Built APK (if using Flutter/React Native) or short demo video  
-- Live 2–3 minute presentation showing navigation and features  
+## 📦 Deliverables
+Each team must submit:
+1. A **GitHub Repository** containing:  
+   - Complete source code  
+   - `README.md` with setup steps and feature list  
+   - Screenshots or demo video  
+2. A **live 2–3 minute demo**, including:  
+   - Core functionality demonstration  
+   - Tech stack overview  
+   - Brief on real-world application
 
 ---
 
 ## 🧠 Judges Will Observe
-- Problem-solving approach  
-- Logical coding and architecture  
-- Creativity in concept and UI  
-- Smooth collaboration between team members  
-- Presentation clarity  
+- Problem-solving approach and logical design  
+- Efficient use of frameworks and UI components  
+- Smooth navigation and code organization  
+- Team coordination and communication  
+- Creativity in idea presentation and feature use  
 
 ---
 
-## 🧰 Rules for All Participants
-- Any libraries, frameworks, or APIs allowed  
-- Internet usage fully permitted  
-- All projects must be original (no templates or copied repos)  
-- Push commits to GitHub before demo time ends  
+## 🧰 Rules
+- You may use **any frameworks, APIs, or tools**.  
+- **Internet usage** is fully allowed.  
+- All work must be **original** — no pre-built templates or cloned repositories.  
+- Code must be **committed to GitHub** before the demo session ends.
 
 ---
 
-## 🏅 Rewards & Career Impact
-- 🥇 Top 3 teams (Web + Mobile): Certificates + Fast-track interview consideration  
-- 🌟 Special mentions for Best Design, Best Innovation, and Best Technical Execution  
-- 🧭 Post-event mentorship & internship shortlisting for standout participants  
+## 🏅 Rewards & Recognition
+- 🥇 **Top 3 Teams:** Certificates + Recruitment Shortlisting  
+- 🌟 **Best UI/UX Design Award**  
+- 💡 **Best Innovative Idea Award**  
+- 🧭 **Post-event Mentorship:** Shortlisted teams may receive guidance or internship opportunities.  
 
 ---
 
 ## 🚀 Pro Tips
-- Plan your app flow before you start coding.  
-- Focus on completing the **core feature first**.  
-- Write a clear `README` and keep code modular.  
-- Make your demo **interactive and brief**.  
+- Focus first on the **main feature**, not every detail.  
+- Use simple and clean UI components for faster delivery.  
+- Write clear comments and maintain version control.  
+- Keep your app **demo-ready** — stable and easy to explain.  
 
 ---
 
-**Good luck innovators — code fast, think smart, and make something amazing! 💡📲💻**
+**Good luck developers — design smart, code fast, and impress with innovation! 🚀📱**
