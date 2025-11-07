@@ -1,5 +1,5 @@
-# Week 3 – Lesson 6  
-## Quiz: Introduction to Machine Learning  
+ 
+## Quiz # 1: Introduction to Machine Learning  
 **Course:** Artificial Intelligence  
 **CLO:** CLO3  
 **Chapter:** 13 – Introduction to Machine Learning  
