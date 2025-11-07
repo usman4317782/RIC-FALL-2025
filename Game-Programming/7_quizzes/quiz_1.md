@@ -64,8 +64,3 @@ What factors should be considered when designing a fun and challenging level?
 - Relate **Solar System Simulation** concepts (materials, lighting, audio) to real-world Unity practices.  
 - Keep answers short, clear, and example-based (e.g., “Lights make planets glow naturally in the Solar System project”).  
 
----
-
-**Instructor Signature:** ______________________  
-**Student Name:** ______________________  
-**Date:** ______________________  
