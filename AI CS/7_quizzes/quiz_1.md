@@ -6,9 +6,7 @@
 ## 🧩 Quiz Instructions:
 - Answer all questions in **your own words** with clarity and depth.  
 - Use **technical reasoning** and **real-world logic** rather than surface definitions.  
-- Limit each answer to **3–4 sentences** while ensuring completeness.  
-- You may consult **Chapter 13**, lecture notes, or credible ML resources.  
-- Submit before the next scheduled class.  
+- Limit each answer to **7–8 sentences** while ensuring completeness.  
 
 ---
 
