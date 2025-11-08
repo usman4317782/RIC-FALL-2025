@@ -1,42 +1,58 @@
- 
-## Quiz # 1: Introduction to Machine Learning  
+# 🧠 Quiz #1: Advanced Concepts in Machine Learning  
 **Course:** Artificial Intelligence  
-**CLO:** CLO3  
-**Chapter:** 13 – Introduction to Machine Learning  
 
 ---
 
-### 🧩 Quiz Instructions:
-- Read each question carefully before answering.  
-- Write **short, precise answers (2–3 sentences)** for each question.  
-- Attempt all questions on the same page.  
-- You may refer to lecture slides, textbook (Chapter 13), or online ML references.  
-- Submit your handwritten or typed responses before the next class.  
+## 🧩 Quiz Instructions:
+- Answer all questions in **your own words** with clarity and depth.  
+- Use **technical reasoning** and **real-world logic** rather than surface definitions.  
+- Limit each answer to **3–4 sentences** while ensuring completeness.  
+- You may consult **Chapter 13**, lecture notes, or credible ML resources.  
+- Submit before the next scheduled class.  
 
 ---
 
-### ✏️ Quiz Questions:
+## ✏️ Quiz Questions
 
-**Q1.** Explain the key difference between **supervised** and **unsupervised** learning. Provide one real-world example of each.
-
-**Q2.** A data scientist trains a model to predict housing prices using features like location, area, and number of rooms.  
-   - Identify the **type of learning** being used.  
-   - Describe the **role of features** and **target variable** in this problem.
+### Q1.  
+Differentiate between **supervised**, **unsupervised**, and **semi-supervised** learning in terms of data labeling, algorithmic approach, and practical application.  
+Provide **one challenging real-world example** where semi-supervised learning would outperform purely supervised or unsupervised methods, and justify why.
 
 ---
 
-### 🧭 Evaluation Criteria:
+### Q2.  
+A research team is developing a system that automatically classifies X-ray images as “Normal,” “Pneumonia,” or “Tuberculosis.”  
+- Identify the **type of learning** and **specific ML task** involved.  
+- Discuss how **imbalanced data** and **feature selection** could affect the model’s performance, and suggest one mitigation strategy for each issue.
+
+---
+
+### Q3.  
+Compare the **role of features** and **target variables** in both regression and classification problems.  
+Using an example, explain how an **improper feature selection process** could lead to **overfitting or underfitting** in a predictive model.
+
+---
+
+### Q4.  
+Consider a scenario where an ML algorithm continuously improves its strategy for controlling a self-driving car through trial and error.  
+- Identify the **learning paradigm** involved.  
+- Explain how **reward functions** influence learning outcomes and discuss one **ethical or safety challenge** associated with this approach.
+
+---
+
+## 🧭 Evaluation Criteria
 | Criteria | Description | Marks |
 |-----------|-------------|-------|
-| Conceptual Understanding | Accuracy and clarity of ML concepts | 5 |
-| Application Insight | Correctness of examples and logical reasoning | 3 |
-| Presentation | Neatness, completeness, and readability | 2 |
+| Conceptual Depth | Understanding of advanced ML concepts and learning paradigms | 4 |
+| Analytical Reasoning | Ability to connect theory with practical/ethical implications | 3 |
+| Technical Accuracy | Correct terminology and logical structure | 2 |
+| Presentation | Neatness, organization, and clarity of writing | 1 |
 | **Total** |  | **10 Marks** |
 
 ---
 
-### 💡 Tips for Solving:
-- Recall the **three main categories** of ML: supervised, unsupervised, and reinforcement.  
-- Think of **real-world systems** you’ve seen that use ML (e.g., spam filters, customer segmentation).  
-- Clearly differentiate between **input features (X)** and **output/target (Y)**.  
-- Avoid copying; focus on your **own understanding** of concepts.
+## 💡 Tips for Solving:
+- Think beyond basic definitions — link **concepts to real-world data challenges**.  
+- Mention **problems like overfitting, data imbalance, noise, and bias** where relevant.  
+- Use **precise ML terminology**: features, target, reward function, generalization, etc.  
+- Be concise but **analytically rich** — focus on *why* a concept matters, not just *what* it is.  
